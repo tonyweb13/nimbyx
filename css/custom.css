@@ -1,0 +1,801 @@
+.container-fluid{
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1200px;
+    height: 2000px;
+}
+
+.email-container{
+    position:absolute;
+    left:662px;
+    top: 225px;
+    width:750px;
+    height:205px;
+    padding-top: 50px;
+    line-height: 40px;
+}
+
+.lorem{
+    font-size: 54px;
+}
+
+.btn-signup{
+    background: #a1b907;
+    color: white;
+    width: 200px;
+}
+
+.txt-email{
+    border-radius: 4px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    padding-left: 10px;
+    height: 36px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.mobile-container {
+    position:absolute;
+    left:178px;
+    top:384px;
+    width:464px;
+    height:358px;
+    background: url("../images/mobile.png") no-repeat;
+}
+
+/*benefit start*/
+.benefit-container {
+    position:absolute;
+    left:0px;
+    top:742px;
+    width: 1187px;
+    height:195px;
+    background: #333743;
+    padding-left: 120px;
+}
+
+.benefit-mobile {
+    position:absolute;
+    left:119px;
+    top:51px;
+    width:61px;
+    height:55px;
+}
+
+.benefit-church {
+    position:absolute;
+    left:459px;
+    top:51px;
+    width:59px;
+    height:55px;
+}
+
+.benefit-light {
+    position:absolute;
+    left:801px;
+    top:51px;
+    width:64px;
+    height:55px;
+}
+
+.benefit-common{
+    color: white;
+    font-size: 15px;
+}
+
+.benefit1 {
+    position:absolute;
+    left:530px;
+    top:60px;
+    width:199px;
+    height:20px;
+}
+
+.benefit2 {
+    position:absolute;
+    left:873px;
+    top:63px;
+    width:203px;
+    height:15px;
+}
+
+.benefit3 {
+    position:absolute;
+    left:188px;
+    top:65px;
+    width:211px;
+    height:15px;
+}
+
+.benefit-content-common{
+    font-size: 13px;
+    color: #9297a3;
+}
+
+.benefit-content1 {
+    position:absolute;
+    left:530px;
+    top:92px;
+    width:199px;
+    height:52px;
+}
+
+.benefit-content2 {
+    position:absolute;
+    left:188px;
+    top:93px;
+    width:211px;
+    height:48px;
+}
+
+.benefit-content3 {
+    position:absolute;
+    left:873px;
+    top:94px;
+    width:203px;
+    height:46px;
+}
+/*benefit end*/
+
+
+/*service start*/
+.service-container {
+    position: absolute;
+    top: 937px;
+    width: 1196px;
+    height: 601px;
+    font-size: 37px;
+    line-height: 40px;
+    font-family: "Aileron UltraLight";
+}
+
+.service {
+    color: #35b2e9;
+    font-family: Aileron;
+    font-weight: 900;
+}
+
+.our-service{
+    position:absolute;
+    left:147px;
+    top:41px;
+    width:257px;
+    height:96px;
+}
+
+.product-title{
+    font-size: 17px;
+    margin-left: 15px;
+}
+
+.product1 {
+    position:absolute;
+    left:575px;
+    top:103px;
+    width:106px;
+    height:22px;
+}
+
+.product2 {
+    position:absolute;
+    left:573px;
+    top:432px;
+    width:109px;
+    height:23px;
+}
+
+.product3 {
+    position:absolute;
+    left:100px;
+    top:51px;
+    width:106px;
+    height:24px;
+}
+
+.icon-chart {
+    position:absolute;
+    left:512px;
+    top:112px;
+    width:63px;
+    height:63px;
+}
+
+.learnmore {
+    width:142px;
+    height:39px;
+}
+
+.learn1 {
+    position:absolute;
+    left:981px;
+    top:130px;
+    width:144px;
+    height:43px;
+}
+
+.learn2 {
+    position:absolute;
+    left:979px;
+    top:462px;
+    width:146px;
+    height:42px;
+}
+
+.learn3 {
+    position:absolute;
+    left:500px;
+    top:76px;
+    width:152px;
+    height:49px;
+}
+
+.product-common{
+    font-size: 13px;
+    margin-left: 15px;
+    line-height: 20px;
+}
+
+.product-content1 {
+    position: absolute;
+    left: 575px;
+    top: 137px;
+    width: 340px;
+    height: 67px;
+}
+
+.product-content2 {
+    position:absolute;
+    left:575px;
+    top:463px;
+    width: 340px;
+    height:73px;
+}
+
+.product-content3 {
+    position:absolute;
+    left:100px;
+    top:85px;
+    width: 340px;
+    height:65px;
+}
+
+.product-default-active {
+    position:absolute;
+    left:476px;
+    top:209px;
+    width:693px;
+    height:196px;
+}
+
+.icon-gift {
+    position:absolute;
+    left:512px;
+    top:451px;
+    width:61px;
+    height:55px;
+}
+
+.icon-product-cart {
+    position:absolute;
+    left:33px;
+    top:75px;
+    width:67px;
+    height:49px;
+}
+/*service end*/
+
+/*customer start*/
+.customer-container{
+    position:absolute;
+    left:0px;
+    top:1538px;
+    width:1198px;
+    height:413px;
+}
+
+.image-qoute {
+    position:absolute;
+    left:569px;
+    top:27px;
+    width:57px;
+    height:42px;
+}
+
+.testimonal-content {
+    position:absolute;
+    left:302px;
+    top:101px;
+    width:570px;
+    height:187px;
+    font-size: 39px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.arrow-left {
+    position:absolute;
+    left:112px;
+    top:176px;
+    width:44px;
+    height:22px;
+}
+
+.arrow-right {
+    position:absolute;
+    left:1042px;
+    top:176px;
+    width:39px;
+    height:20px;
+}
+
+.cindy {
+    position:absolute;
+    left:534px;
+    top:314px;
+    width:200px;
+    height:50px;
+    font-size: 17px;
+    color:#a8a6a9;
+    font-weight: 900;
+}
+
+.cindy_hr{
+    border: 1px solid;
+    width: 20px;
+    margin-top: 300px;
+    color: #9c9d9e;
+}
+/*customer end*/
+
+/*footer start*/
+.footer-container {
+    position:absolute;
+    left:0px;
+    top:1951px;
+    width: 1187px;
+    height:362px;
+    background-color: #333743;
+}
+
+.footer-lorem {
+    position:absolute;
+    left:373px;
+    top:59px;
+    width:480px;
+    height:50px;
+    color:white;
+    font-size: 50px;
+}
+
+.footer-content {
+    position:absolute;
+    left:373px;
+    top:109px;
+    width:457px;
+    height:57px;
+    font-size: 22px;
+    color:white;
+    text-align: center;
+}
+
+.footer-text {
+    position:absolute;
+    left:373px;
+    top:288px;
+    width:457px;
+    height:74px;
+    font-size: 10px;
+    color:white;
+    text-align: center;
+}
+
+.footer-text2{
+    margin-top: -25px;
+}
+
+.footer-email {
+    position:absolute;
+    left:373px;
+    top:178px;
+    width:457px;
+    height:60px;
+    text-align: center;
+}
+
+.btn-email-footer{
+    background: #5c5f69;
+    color: white;
+    width: 320px;
+}
+
+.footer-signup {
+    position:absolute;
+    left:373px;
+    top:226px;
+    width:457px;
+    height:62px;
+    text-align: center;
+}
+
+.btn-signup-footer{
+    background: #a1b907;
+    color: white;
+    width: 320px;
+}
+/*footer end*/
+
+/*Mobile*/
+@media(max-width: 370px){
+    .container-fluid{
+        position:absolute;
+        left:0px;
+        top:0px;
+        width:370px;
+        height: 2000px;
+    }
+
+    .email-container{
+        position:absolute;
+        left:0px;
+        top: 225px;
+        width:340px;
+        height:205px;
+        line-height: 25px;
+        padding-top: 50px;
+        text-align: center;
+    }
+
+    .lorem{
+        left:0px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .mobile-container {
+        position:absolute;
+        left:0px;
+        top:460px;
+        width:330px;
+        height:322px;
+        background: url("../images/mobile-bootstrap.png") no-repeat;
+    }
+
+    /*benefit start*/
+    .benefit-container {
+        position:absolute;
+        left:0px;
+        top:742px;
+        width:370px;
+        height:500px;
+        background: #333743;
+    }
+
+    .benefit-container > div {
+        position:absolute;
+        left:0px;
+        width:370px;
+        height: 200px;
+    }
+
+    .benefit-row1{
+        top:0px;
+    }
+
+    .benefit-row2{
+        top:150px;
+    }
+
+    .benefit-row3{
+        top:300px;
+    }
+
+    .benefit-mobile, .benefit-church, .benefit-light  {
+        position:absolute;
+        left:20px;
+        top:51px;
+        width:61px;
+        height:55px;
+    }
+
+    .benefit-common{
+        color: white;
+        font-size: 15px;
+        position:absolute;
+        left:100px;
+        top:60px;
+        width:199px;
+        height:20px;
+    }
+
+    .benefit-content-common{
+        font-size: 13px;
+        color: #9297a3;
+        position:absolute;
+        left:100px;
+        top:100px;
+        width:203px;
+        height:46px;
+    }
+    /*benefit end*/
+
+    /*service start*/
+    .service-container {
+        position: absolute;
+        left: 0px;
+        top: 1200px;
+        width: 370px;
+        height: 601px;
+        font-size: 37px;
+        line-height: 40px;
+        font-family: "Aileron UltraLight";
+    }
+
+    .our-service, .service{
+        display: none;
+    }
+
+    .product-title{
+        font-size: 17px;
+        margin-left: 15px;
+    }
+
+    .product1 {
+        position:absolute;
+        left:575px;
+        top:103px;
+        width:106px;
+        height:22px;
+    }
+
+    .product2 {
+        position:absolute;
+        left:573px;
+        top:432px;
+        width:109px;
+        height:23px;
+    }
+
+    .product3 {
+        position:absolute;
+        left:100px;
+        top:51px;
+        width:106px;
+        height:24px;
+    }
+
+    .icon-chart {
+        position:absolute;
+        left:512px;
+        top:112px;
+        width:63px;
+        height:63px;
+    }
+
+    .learnmore {
+        width:142px;
+        height:39px;
+    }
+
+    .learn1 {
+        position:absolute;
+        left:981px;
+        top:130px;
+        width:144px;
+        height:43px;
+    }
+
+    .learn2 {
+        position:absolute;
+        left:979px;
+        top:462px;
+        width:146px;
+        height:42px;
+    }
+
+    .learn3 {
+        position:absolute;
+        left:500px;
+        top:76px;
+        width:152px;
+        height:49px;
+    }
+
+    .product-common{
+        font-size: 13px;
+        margin-left: 15px;
+        line-height: 20px;
+    }
+
+    .product-content1 {
+        position: absolute;
+        left: 575px;
+        top: 137px;
+        width: 340px;
+        height: 67px;
+    }
+
+    .product-content2 {
+        position:absolute;
+        left:575px;
+        top:463px;
+        width: 340px;
+        height:73px;
+    }
+
+    .product-content3 {
+        position:absolute;
+        left:100px;
+        top:85px;
+        width: 340px;
+        height:65px;
+    }
+
+    .product-default-active {
+        position:absolute;
+        left:476px;
+        top:209px;
+        width:693px;
+        height:196px;
+    }
+
+    .icon-gift {
+        position:absolute;
+        left:512px;
+        top:451px;
+        width:61px;
+        height:55px;
+    }
+
+    .icon-product-cart {
+        position:absolute;
+        left:33px;
+        top:75px;
+        width:67px;
+        height:49px;
+    }
+    /*service end*/
+
+    /*customer start*/
+    .customer-container{
+        position:absolute;
+        left:0px;
+        top:1538px;
+        width:1198px;
+        height:413px;
+    }
+
+    .image-qoute {
+        position:absolute;
+        left:569px;
+        top:27px;
+        width:57px;
+        height:42px;
+    }
+
+    .testimonal-content {
+        position:absolute;
+        left:302px;
+        top:101px;
+        width:570px;
+        height:187px;
+        font-size: 39px;
+        line-height: 50px;
+        text-align: center;
+    }
+
+    .arrow-left {
+        position:absolute;
+        left:112px;
+        top:176px;
+        width:44px;
+        height:22px;
+    }
+
+    .arrow-right {
+        position:absolute;
+        left:1042px;
+        top:176px;
+        width:39px;
+        height:20px;
+    }
+
+    .cindy {
+        position:absolute;
+        left:534px;
+        top:314px;
+        width:200px;
+        height:50px;
+        font-size: 17px;
+        color:#a8a6a9;
+        font-weight: 900;
+    }
+
+    .cindy_hr{
+        border: 1px solid;
+        width: 20px;
+        margin-top: 300px;
+        color: #9c9d9e;
+    }
+    /*customer end*/
+
+    /*footer start*/
+    .footer-container {
+        position:absolute;
+        left:0px;
+        top:1951px;
+        width: 1187px;
+        height:362px;
+        background-color: #333743;
+    }
+
+    .footer-lorem {
+        position:absolute;
+        left:373px;
+        top:59px;
+        width:480px;
+        height:50px;
+        color:white;
+        font-size: 50px;
+    }
+
+    .footer-content {
+        position:absolute;
+        left:373px;
+        top:109px;
+        width:457px;
+        height:57px;
+        font-size: 22px;
+        color:white;
+        text-align: center;
+    }
+
+    .footer-text {
+        position:absolute;
+        left:373px;
+        top:288px;
+        width:457px;
+        height:74px;
+        font-size: 10px;
+        color:white;
+        text-align: center;
+    }
+
+    .footer-text2{
+        margin-top: -25px;
+    }
+
+    .footer-email {
+        position:absolute;
+        left:373px;
+        top:178px;
+        width:457px;
+        height:60px;
+        text-align: center;
+    }
+
+    .btn-email-footer{
+        background: #5c5f69;
+        color: white;
+        width: 320px;
+    }
+
+    .footer-signup {
+        position:absolute;
+        left:373px;
+        top:226px;
+        width:457px;
+        height:62px;
+        text-align: center;
+    }
+
+    .btn-signup-footer{
+        background: #a1b907;
+        color: white;
+        width: 320px;
+    }
+    /*footer end*/
+}
+/*Mobile end*/
